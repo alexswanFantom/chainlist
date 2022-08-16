@@ -108,6 +108,13 @@
             "https://avalancheapi.terminet.io/ext/bc/C/rpc"
         ]
     },
+    "2000":{
+        "rpcs": {
+            "https://rpc01-sg.dogechain.dog",
+            "https://rpc02-sg.dogechain.dog",
+            "https://rpc03-sg.dogechain.dog"
+        }
+    },
     "250": {
         "rpcs": [
             "https://fantom-mainnet.gateway.pokt.network/v1/lb/62759259ea1b320039c9e7ac",
